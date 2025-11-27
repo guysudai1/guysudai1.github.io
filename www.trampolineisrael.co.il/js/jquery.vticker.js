@@ -1,7 +1,7 @@
 /*
 * vertical news ticker
 * Tadas Juozapaitis ( kasp3rito@gmail.com )
-* http://www.jugbit.com/jquery-vticker-vertical-news-ticker/
+* https://www.jugbit.com/jquery-vticker-vertical-news-ticker/
 */
 (function($){
 $.fn.vTicker = function(options) {

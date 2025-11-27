@@ -1,5 +1,5 @@
-HTTrack3.49-6 launched on Thu, 09 Oct 2025 09:35:16 at http://www.trampolineisrael.co.il +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
-(webhttrack -q -%i -w http://www.trampolineisrael.co.il -O "/home/guysu/websites/tramp" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+HTTrack3.49-6 launched on Thu, 09 Oct 2025 09:35:16 at https://www.trampolineisrael.co.il +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.trampolineisrael.co.il -O "/home/guysu/websites/tramp" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,7 +7,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 09:35:18	Warning: 	Moved Permanently for www.trampolineisrael.co.il/robots.txt
-09:35:18	Warning: 	File has moved from www.trampolineisrael.co.il/robots.txt to http://cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il/httpfiles/robots.txt
+09:35:18	Warning: 	File has moved from www.trampolineisrael.co.il/robots.txt to https://cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il/httpfiles/robots.txt
 09:39:00	Error: 	"Forbidden" (403) at link cdn.exiteme.com/ (from www.trampolineisrael.co.il/)
 09:40:11	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from www.trampolineisrael.co.il/)
 09:52:43	Warning: 	Link www.trampolineisrael.co.il/iframeCustomForm.php?formID=1 not scanned (follow robots meta tag)

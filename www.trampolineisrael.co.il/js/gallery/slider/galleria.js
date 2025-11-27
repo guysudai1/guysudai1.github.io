@@ -1,6 +1,6 @@
 /*!
  * Galleria v 1.1.9 2010-07-10
- * http://galleria.aino.se
+ * https://galleria.aino.se
  *
  * Copyright (c) 2010, Aino
  * Licensed under the MIT license.

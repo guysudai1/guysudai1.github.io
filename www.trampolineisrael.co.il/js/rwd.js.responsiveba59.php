@@ -19,10 +19,10 @@ rwdSize=jQuery(window).width();
 if (rwdSize<680) {
     //jQuery('iframe').not('[id^="iframe_gallery"]').not('[id^="iframe_shortContent"]').not('[id^="iframe_form"]').not('[id^="search_content"]').addClass("hideElement");
     jQuery('iframe[src^="//www.youtube"]').removeClass("hideElement");
-    jQuery('iframe[src^="http://www.youtube"]').removeClass("hideElement");
+    jQuery('iframe[src^="https://www.youtube"]').removeClass("hideElement");
     jQuery('iframe[src^="https://www.youtube"]').removeClass("hideElement");
     jQuery('iframe[src^="//player.vimeo"]').removeClass("hideElement");
-    jQuery('iframe[src^="http://player.vimeo"], iframe[src^="https://player.vimeo"]').removeClass("hideElement");
+    jQuery('iframe[src^="https://player.vimeo"], iframe[src^="https://player.vimeo"]').removeClass("hideElement");
     jQuery('iframe[src^="https://w.soundcloud"]').removeClass("hideElement");
     //if (jQuery('#headerMaster_marginizer').length>0) jQuery('#headerMaster_marginizer').css("min-height",jQuery(".masterHeader_wrapper").height()+"px");
     

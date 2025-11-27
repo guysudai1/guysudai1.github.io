@@ -4,7 +4,7 @@
 * Creates placeholder on inputs/textareas for browsers that don't support it (well, IE...)
 *
 * @ Created by Guillaume Gaubert
-* @ http://widgetulous.com/placeholderjs/
+* @ https://widgetulous.com/placeholderjs/
 * @ © 2011 Guillaume Gaubert
 *
 * @ Default use :

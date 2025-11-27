@@ -1,6 +1,6 @@
 /*!
  * Galleria Dots Theme
- * http://galleria.aino.se
+ * https://galleria.aino.se
  *
  * Copyright (c) 2010, Aino
  * Licensed under the MIT license.
