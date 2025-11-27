@@ -1,0 +1,46 @@
+HTTrack3.49-6 launched on Thu, 09 Oct 2025 09:35:16 at http://www.trampolineisrael.co.il +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://www.trampolineisrael.co.il -O "/home/guysu/websites/tramp" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:35:18	Warning: 	Moved Permanently for www.trampolineisrael.co.il/robots.txt
+09:35:18	Warning: 	File has moved from www.trampolineisrael.co.il/robots.txt to http://cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il/httpfiles/robots.txt
+09:39:00	Error: 	"Forbidden" (403) at link cdn.exiteme.com/ (from www.trampolineisrael.co.il/)
+09:40:11	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from www.trampolineisrael.co.il/)
+09:52:43	Warning: 	Link www.trampolineisrael.co.il/iframeCustomForm.php?formID=1 not scanned (follow robots meta tag)
+09:52:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/gallery/slider/galleria.js
+09:52:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/css/styles.css.php?urlKey=home&cID=1
+09:52:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/gallery/slider/galleria.dots.js
+09:52:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/jquery.vticker.js
+09:52:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/rwd.js.responsive.php?catType=12&galType=&mobilelogo=&mobilemainpichomepage=614E788A-8E7A-8249-B688-41A747EF23CC.JPG&site_media=//cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il&aws_s3_enabled=1&t=9822345w
+09:52:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/logger.js
+09:52:57	Warning: 	HTML file (13023 bytes) retransferred due to lack of cache: www.trampolineisrael.co.il/iframeCustomForm.php?formID=1
+09:52:58	Warning: 	Link www.trampolineisrael.co.il/iframeCustomForm.php?formID=1 not scanned (follow robots meta tag)
+09:52:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/images/video-bot-circle.png
+09:52:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/rwd.js.responsive.php?catType=0&galType=&mobilelogo=&mobilemainpichomepage=EDF1D1F7-0DF4-9EAC-1D57-E4F68464101B.jpg&site_media=//cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il&aws_s3_enabled=1&t=9822345w
+09:53:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/rwd.js.responsive.php?catType=2&galType=0&mobilelogo=&mobilemainpichomepage=58DEC231-C572-E2AA-F798-332CECB1CE6B.JPG&site_media=//cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il&aws_s3_enabled=1&t=9822345w
+09:54:28	Error: 	"Forbidden" (403) at link cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il/images/background.png (from www.trampolineisrael.co.il/css/styles.css.php?urlKey=home&cID=1)
+09:54:30	Error: 	"Forbidden" (403) at link cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il/images/zoom_gallery.png (from www.trampolineisrael.co.il/css/styles.css.php?urlKey=home&cID=1)
+09:54:30	Error: 	"Forbidden" (403) at link cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il/images/select_arrow_down2.png (from www.trampolineisrael.co.il/css/styles.css.php?urlKey=home&cID=1)
+09:54:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/css/styles.css.php?urlKey=%d7%a4%d7%a8%d7%95%d7%a4%d7%99%d7%9c&cID=6
+09:54:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/css/styles.css.php?urlKey=%d7%95%d7%99%d7%93%d7%90%d7%95&cID=50
+09:54:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/css/styles.css.php?urlKey=%d7%aa%d7%9e%d7%95%d7%a0%d7%95%d7%aa&cID=49
+09:54:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/rwd.js.responsive.php?catType=2&galType=0&mobilelogo=&mobilemainpichomepage=5748D18D-C0ED-7680-B355-F722BAF6EF5D.jpg&site_media=//cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il&aws_s3_enabled=1&t=9822345w
+09:54:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/css/styles.css.php?urlKey=%d7%9e%d7%91%d7%a6%d7%a2%d7%99%d7%9d&cID=51
+09:54:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/rwd.js.responsive.php?catType=0&galType=&mobilelogo=&mobilemainpichomepage=543DAF22-7974-4F2C-C758-8190646A1A08.jpg&site_media=//cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il&aws_s3_enabled=1&t=9822345w
+09:54:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/css/styles.css.php?urlKey=%d7%97%d7%9c%d7%a7%d7%99-%d7%97%d7%99%d7%9c%d7%95%d7%a3-%d7%9c%d7%a8%d7%9b%d7%91&cID=53
+09:54:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/css/styles.css.php?urlKey=%d7%a6%d7%a8%d7%95-%d7%a7%d7%a9%d7%a8&cID=14
+09:54:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/exite_dz.js
+09:54:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/customFormFile.js?t=2
+09:54:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/placeholder.js
+09:55:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.trampolineisrael.co.il/js/rwd.js.responsive.php?catType=17&galType=&mobilelogo=&mobilemainpichomepage=A48E1E58-0E04-6DFD-0439-5602D1E825F0.jpg&site_media=//cdn.exiteme.com/exitetogo/www.trampolineisrael.co.il&aws_s3_enabled=1&t=9822345w
+09:55:03	Error: 	"Forbidden" (403) at link cdn.exiteme.com/css/webfonts/almoni-dl-aaa-300.svg (from cdn.exiteme.com/css/he_fonts.css)
+09:55:03	Error: 	"Forbidden" (403) at link cdn.exiteme.com/css/webfonts/almoni-dl-aaa-400.svg (from cdn.exiteme.com/css/he_fonts.css)
+09:55:03	Error: 	"Forbidden" (403) at link cdn.exiteme.com/css/webfonts/almoni-dl-aaa-700.svg (from cdn.exiteme.com/css/he_fonts.css)
+09:55:03	Error: 	"Forbidden" (403) at link cdn.exiteme.com/css/webfonts/almoni-dl-aaa-900.svg (from cdn.exiteme.com/css/he_fonts.css)
+
+HTTrack Website Copier/3.49-6 mirror complete in 19 minutes 47 seconds : 333 links scanned, 530 files written (132326253 bytes overall) [72129260 bytes received at 60766 bytes/sec], 11558634 bytes transferred using HTTP compression in 88 files, ratio 27%, 1.4 requests per connection
+(9 errors, 26 warnings, 0 messages)

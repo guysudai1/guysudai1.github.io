@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.trampolineisrael.co.il	TRUE	/	FALSE	1999999999	PHPSESSID	7lgci91soh0kfono08hv58gok1
+www.trampolineisrael.co.il	TRUE	/	FALSE	1999999999	AWSALB	tRFY2xjNoqZu4RFfBhMQvprLvgECdUBAuOIlpwKRpfE6h9O73Cm6avatYtDru8tRcjQJnSkQhOBhPQ8CHseHjh4fHHptsqfOuNquKYJNpIy0yG0Nbo2GOT8QmQlr
+www.trampolineisrael.co.il	TRUE	/	FALSE	1999999999	AWSALBCORS	tRFY2xjNoqZu4RFfBhMQvprLvgECdUBAuOIlpwKRpfE6h9O73Cm6avatYtDru8tRcjQJnSkQhOBhPQ8CHseHjh4fHHptsqfOuNquKYJNpIy0yG0Nbo2GOT8QmQlr
+www.trampolineisrael.co.il	TRUE	/	FALSE	1999999999	SameSite	None
+.co.il	TRUE	/	FALSE	1999999999	TS01d6041d	0194db98fd2e6f570a0f4efeecfb7ccc1ed2d25985b05462dcc762c7761b32c560f36257cede64a1cc7af901557f501ac6a089faf4bbdf2e329000aa70a3db667faad3953b7384c958160fdd7bc9cd6e6d8ea6e110e00a5a57252e2a9b56caff125f34c866
+
